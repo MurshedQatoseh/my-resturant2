@@ -1,0 +1,23 @@
+body{
+    background-color: darkkhaki;
+}
+h1{
+    color:aqua;
+    font-size:45px;
+   
+
+}
+a{
+    color:red;
+    font-size: 30px;
+}
+p{
+    color:royalblue;
+    
+
+    font-size: 45px;
+}
+li{
+    color:darkslategrey;
+    font-size: 25px;
+}
